@@ -1,7 +1,7 @@
 # Simple Python Calculator
 # Author: @SuspiciousCodes on Github.
 # Date: 01/10/2024
-# Version : v1.0
+# Version : v1.0.0
 
 operator = input("Enter an operator (+ - * /): ")
 print(" ")
