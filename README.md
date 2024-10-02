@@ -44,7 +44,7 @@ This repository contains a basic calculator built using Python, designed to perf
    Open the project folder:
    
    ```bash
-   python Calculator Program.py
+   python Calculator.Program.py
 
 ## Usage
 
